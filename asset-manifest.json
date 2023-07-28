@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/urban-company-React-Tailwind/static/css/main.9a62f903.css",
+    "main.js": "/urban-company-React-Tailwind/static/js/main.84292f06.js",
+    "index.html": "/urban-company-React-Tailwind/index.html",
+    "main.9a62f903.css.map": "/urban-company-React-Tailwind/static/css/main.9a62f903.css.map",
+    "main.84292f06.js.map": "/urban-company-React-Tailwind/static/js/main.84292f06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a62f903.css",
+    "static/js/main.84292f06.js"
+  ]
+}
